@@ -46,14 +46,7 @@ We visualized the decision boundaries and the misclassified samples using scatte
 
 ## Results
 
-The models were evaluated based on accuracy and other metrics. Here are the key results:
-- **Model 1 (Logistic Regression with default settings):**
-  - Training Accuracy: XX%
-  - Test Accuracy: XX%
-- **Model 2 (Logistic Regression with 'saga' solver):**
-  - Training Accuracy: XX%
-  - Test Accuracy: XX%
-
+The models were evaluated based on accuracy and other metrics.
 The decision boundaries and misclassified samples were also plotted for better insight into the model's performance.
 
 ## How to Run
